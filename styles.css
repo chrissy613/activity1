@@ -1,3 +1,15 @@
 h1 {
     color:blue;
 }
+#styledImage {
+    border: 10px solid orange;
+}
+li {
+    color:red;
+}
+p {
+    font-family: cursive;
+}
+h2{
+    color:green;
+}
